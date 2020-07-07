@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#### Made with :heart: by <a href="https://github.com/abhinavsri360">abhinavsri360</a>
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://github.com/abhinavsri360)
