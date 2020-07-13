@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/abhinavsri360/Todo_application_Vue.svg)](http://hits.dwyl.com/abhinavsri360/Todo_application_Vue)
 # To_Do
 
 ## Project setup
